@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import ipdb
 
 def tracing_the_function():
